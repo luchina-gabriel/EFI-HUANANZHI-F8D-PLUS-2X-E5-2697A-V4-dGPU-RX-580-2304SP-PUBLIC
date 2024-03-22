@@ -1,5 +1,7 @@
 # Powerful Dual Xeon Hackintosh, 2x E5 2697A V4 with 128GB RAM DDR4 and RX 580 2304SP
 
+![Overview](https://github.com/luchina-gabriel/EFI-HUANANZHI-F8D-PLUS-2X-E5-2697A-V4-dGPU-RX-580-2304SP-PUBLIC/assets/23700365/efc58e4a-c735-4d89-bf9b-948e7cc8d5e1)
+
 # Basic Information
 
 **Latest working macOS**: macOS Sonoma (14.4)
